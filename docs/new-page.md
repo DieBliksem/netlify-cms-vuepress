@@ -1,6 +1,4 @@
 ---
 title: New Page
 ---
-This is new page
-
-# Upgrade CMS 2.0
+# Hello I am Editing this page
